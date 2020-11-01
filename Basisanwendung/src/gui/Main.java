@@ -9,8 +9,7 @@ public class Main {
 		
 		System.out.println("Wie gehts dir");
 
-		System.out.println("Wo wohnst du");
-
+		
 	}
 
 }
