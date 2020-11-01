@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Hi Media");
 		
 		System.out.println("Wie gehts dir");
+		System.out.println("Was machst du media");
 
 		
 	}
